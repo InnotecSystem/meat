@@ -13,7 +13,11 @@ You need download de virtual machine in this url:
 
 Use
 ----
-When unzip the virtual machine 
+Whe the machine is decompressed it can be imported in both virtualbox or vmware, then we just have to launch it and open a terminal to execute the next commandn unzip the virtual machine 
+
+```sh
+meat
+```
 
 License
 ----
