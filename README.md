@@ -10,10 +10,10 @@ Instalation
 
 You need download de virtual machine in this url:
 
-https://mega.nz/#!Zs5DUISQ
-https://mega.nz/#!5xhVHAaD
-https://mega.nz/#!FxxjhQ4a
-https://mega.nz/#!kkwTgSJB
+- https://mega.nz/#!Zs5DUISQ
+- https://mega.nz/#!5xhVHAaD
+- https://mega.nz/#!FxxjhQ4a
+- https://mega.nz/#!kkwTgSJB
 
 
 Use
