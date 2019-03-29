@@ -1,11 +1,11 @@
-# M.E.A.T. (Make Enviroment Android Tools)
+# M.E.A.T. (Make Environment Android Tools)
 ---
 
 Tool to automate the whole process of environment in android audits
 
 ![alt text](https://github.com/InnotecSystem/meat/blob/master/image.png?raw=true)
 
-Instalation
+Installation
 ----
 
 You need download de virtual machine in this url:
