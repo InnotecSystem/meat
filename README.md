@@ -1,7 +1,7 @@
 # M.E.A.T. (Make Environment Android Tools)
 ---
 
-Tool to automate the whole android audit environment
+Tool to automate the whole android audit environment.
 
 ![alt text](https://github.com/InnotecSystem/meat/blob/master/image.png?raw=true)
 
@@ -18,13 +18,13 @@ You need to download the virtual machine at this url:
 
 Use
 ----
-Whe the machine is decompress the files. It can be used either in Vmware or in VirtualBox, then we just have to launch it and open a terminal to execute the next command:
+Once virtual machine is decompressed, you can use it either on VmWare or VirtualBox. To launch MEAT you only have to open the terminal and execute the following:
 
 ```sh
 meat
 ```
 
-For more information head the Powerpoint Slides about RootedCon19
+For further information, please look at the following RootedCON19 presentation:
 
  - https://www.slideshare.net/rootedcon/paco-ramirez-meat-make-enviroment-android-tools-rooted2019
 
