@@ -8,7 +8,7 @@ Tool to automate the whole Android audit environment.
 Installation
 ----
 
-You need to download the virtual machine at this url:
+You need to download the virtual machine at these url:
 
 - https://mega.nz/#!Zs5DUISQ!i8BTSDLa8Lby4Mnl16o6-FgCgSqQ0ZQ5EIt-6dD8d2s
 - https://mega.nz/#!5xhVHAaD!h4S7LkyJuFeSFT55Ez994JtU0EhjSTzr0piCMtqVjhI
