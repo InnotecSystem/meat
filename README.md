@@ -1,7 +1,7 @@
 # M.E.A.T. (Make Environment Android Tools)
 ---
 
-Tool to automate the whole android audit environment.
+Tool to automate the whole Android audit environment.
 
 ![alt text](https://github.com/InnotecSystem/meat/blob/master/image.png?raw=true)
 
